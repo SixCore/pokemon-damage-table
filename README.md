@@ -1,4 +1,4 @@
-[Example](https://pokemon-damage-table.vercel.app/)
+Click here to see the table: [Example](https://pokemon-damage-table.vercel.app/)
 ---
 
 # svelte app
